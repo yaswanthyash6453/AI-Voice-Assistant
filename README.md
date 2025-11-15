@@ -40,6 +40,7 @@ ecapture
 
 dotenv (for hiding API keys)
 
+
 📁 Project Structure
 AI-Voice-Assistant/
 │
@@ -58,6 +59,7 @@ WOLFRAM_APP_ID=your_wolframalpha_app_id
 
 
 ⚠️ These keys are hidden from GitHub using .gitignore.
+
 
 📦 Installation & Setup
 1️⃣ Clone the repository
@@ -112,3 +114,4 @@ AI | ML | Python Developer
 ⭐ Support this Project
 
 If you like this project, kindly star the repository ⭐ on GitHub.
+
