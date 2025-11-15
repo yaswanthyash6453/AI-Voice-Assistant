@@ -40,7 +40,6 @@ ecapture
 
 dotenv (for hiding API keys)
 
-
 📁 Project Structure
 AI-Voice-Assistant/
 │
@@ -62,9 +61,11 @@ WOLFRAM_APP_ID=your_wolframalpha_app_id
 
 
 📦 Installation & Setup
+
 1️⃣ Clone the repository
 git clone https://github.com/yourusername/AI-Voice-Assistant.git
 cd AI-Voice-Assistant
+
 
 2️⃣ Install dependencies
 pip install -r requirements.txt
@@ -114,4 +115,5 @@ AI | ML | Python Developer
 ⭐ Support this Project
 
 If you like this project, kindly star the repository ⭐ on GitHub.
+
 
